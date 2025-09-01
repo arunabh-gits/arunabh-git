@@ -24,7 +24,4 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Open S
 
 ## 📫 Connect with me
 - 📧 [Email Me](arunabhshrivastva@gmail.com)
-
-- 📧 [Email Me](mailto:your-email@example.com)
-
 # arunabh-git
